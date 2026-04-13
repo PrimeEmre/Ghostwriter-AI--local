@@ -1,1 +1,1 @@
-# Ghostwriter-AI--local
+# Ghostwriter-AI
